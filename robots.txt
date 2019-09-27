@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahpheegeet.scotiaprice.com/sitemap.xml
